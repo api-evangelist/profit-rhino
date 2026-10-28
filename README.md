@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Profit Rhino is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://profitrhino.com/
+Profit Rhino is a flat‑rate service platform that partners with Callahan Roach, the pioneer of flat‑rate pricing in the HVAC industry. Founded in 2019, the platform provides contractors with tools to simplify quoting, increase profitability, and streamline operations. By integrating Callahan Roach’s extensive flat‑rate guides—covering over 60 million repairs—and modern technology, Profit Rhino offers features such as SmartPrice, Integrate, and C.A.P to help residential trade professionals manage pricing, scheduling, and customer communication, reducing diagnostic fees and growing contractor businesses.
+
+**Areas:** Company · flat-rate · contractor · HVAC · software · sales-tool
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://profitrhino.com/)
+- [Documentation](https://profitrhino.com/products/)
+- [Getting started](https://docs.profitrhino.com/docs/getting-started)
+- [API reference](https://docs.profitrhino.com/reference)
+- [Pricing](https://profitrhino.com/pricing/)
+- [Support](https://support.profitrhino.com/)
+- [Blog](https://profitrhino.com/blog/)
+- [Terms of service](https://profitrhino.com/terms-of-service/)
+- [Privacy policy](https://profitrhino.com/privacy-policy/)
+
+**APIs profiled:** 10
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/profit-rhino/](https://apis.io/providers/profit-rhino/).
