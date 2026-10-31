@@ -68,6 +68,75 @@ Profit Rhino is a flat‑rate service platform that partners with Callahan Roach
 
 **Areas:** Company · flat-rate · contractor · HVAC · software · sales-tool
 
+## Profit Rhino on APIs.io
+
+Everything profiled for Profit Rhino is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/profit-rhino/](https://apis.io/providers/profit-rhino/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [Profit Rhino Auth API](https://apis.io/apis/profit-rhino/profit-rhino-auth-api/) — The Auth API from Profit Rhino — 1 operation(s) for auth.
+- [Profit Rhino Business Information API](https://apis.io/apis/profit-rhino/profit-rhino-businessinformation-api/) — The BusinessInformation API from Profit Rhino — 1 operation(s) for businessinformation.
+- [Profit Rhino Manufacturer API](https://apis.io/apis/profit-rhino/profit-rhino-manufacturer-api/) — The Manufacturer API from Profit Rhino — 2 operation(s) for manufacturer.
+- [Profit Rhino Option Board API](https://apis.io/apis/profit-rhino/profit-rhino-optionboard-api/) — The OptionBoard API from Profit Rhino — 2 operation(s) for optionboard.
+- [Profit Rhino Part Category API](https://apis.io/apis/profit-rhino/profit-rhino-partcategory-api/) — The PartCategory API from Profit Rhino — 5 operation(s) for partcategory.
+- [Profit Rhino Parts API](https://apis.io/apis/profit-rhino/profit-rhino-parts-api/) — The Parts API from Profit Rhino — 4 operation(s) for parts.
+- [Profit Rhino Parts Markup API](https://apis.io/apis/profit-rhino/profit-rhino-partsmarkup-api/) — The PartsMarkup API from Profit Rhino — 1 operation(s) for partsmarkup.
+- [Profit Rhino Task Category API](https://apis.io/apis/profit-rhino/profit-rhino-taskcategory-api/) — The TaskCategory API from Profit Rhino — 3 operation(s) for taskcategory.
+- [Profit Rhino Tasks API](https://apis.io/apis/profit-rhino/profit-rhino-tasks-api/) — The Tasks API from Profit Rhino — 2 operation(s) for tasks.
+- [Profit Rhino Vendors API](https://apis.io/apis/profit-rhino/profit-rhino-vendors-api/) — The Vendors API from Profit Rhino — 2 operation(s) for vendors.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Profit Rhino Agentic Access](https://apis.io/agentic-access/profit-rhino/profit-rhino-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PRResponse_BusinessInformationViewModelV2_](https://apis.io/schemas/profit-rhino/profit-rhino-prresponse-business-information-view-model-v2/)
+- [PRResponse_List_VendorsViewModel_](https://apis.io/schemas/profit-rhino/profit-rhino-prresponse-list-vendors-view-model/)
+- [PRResponse_PartCategoryProductLinesModel_](https://apis.io/schemas/profit-rhino/profit-rhino-prresponse-part-category-product-lines-model/)
+- [PRResponse_PartVendorsResultModel_](https://apis.io/schemas/profit-rhino/profit-rhino-prresponse-part-vendors-result-model/)
+- [PRResponse_ProductLineDescriptionModel_](https://apis.io/schemas/profit-rhino/profit-rhino-prresponse-product-line-description-model/)
+- [PRResponse_ProductLineDescriptionsModel_](https://apis.io/schemas/profit-rhino/profit-rhino-prresponse-product-line-descriptions-model/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Profit Rhino Context](https://apis.io/jsonld/profit-rhino/profit-rhino-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Profit Rhino Openapi Overlay](https://apis.io/overlays/profit-rhino/profit-rhino-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Profit Rhino API Rules](https://apis.io/rules/profit-rhino/profit-rhino-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Profit Rhino Authentication](https://apis.io/security/profit-rhino/profit-rhino-authentication/)
+- [Profit Rhino Domain Security](https://apis.io/security/profit-rhino/profit-rhino-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Profit Rhino Plans Pricing](https://apis.io/plans/profit-rhino/profit-rhino-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -82,8 +151,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Terms of service](https://profitrhino.com/terms-of-service/)
 - [Privacy policy](https://profitrhino.com/privacy-policy/)
 
-**APIs profiled:** 10
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/profit-rhino/](https://apis.io/providers/profit-rhino/).
+**Kin Score 52.6** — developing · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 49.1 |
+| Contract governance | 70.9 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 60.0 |
+
+**Agent readiness 47.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/profit-rhino/](https://apis.io/providers/profit-rhino/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Profit Rhino: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/profit-rhino/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
